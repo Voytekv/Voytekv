@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Voytekv
-- 👀 I’m interested in CODE BLYAT
 - 🌱 I’m currently learning HTML C## Python Json
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me DISCORD BLYAT TIWGER IVC#4198
+- 📫 How to reach me DISCORD BLYAT: tiwger
 
 <!---
 Voytekv/Voytekv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
